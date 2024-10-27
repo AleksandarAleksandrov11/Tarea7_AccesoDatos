@@ -91,7 +91,7 @@ public class Tarea7 {
     /**
      * Crea y agrega un elemento al nodo Alumno en el documento XML.
      * 
-     * @param dato El nombre del elemento que se va a crear.
+     * @param dato El nombre del elemento que se va a crear. 
      * @param valorDato El valor de texto del elemento.
      * @param alumno El nodo padre al que se añadirá el nuevo elemento.
      * @param doc El documento XML en el que se está creando el elemento.
